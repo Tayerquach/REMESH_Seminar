@@ -5,8 +5,8 @@ Linguistic, visual, and audio information can now be decoded from brain activity
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Tayerquach/quant_puzzles">
-    <img src="https://brainvision.com/wp-content/uploads/2020/05/EEG-1024x1024.png" alt="Logo" width="100" height="100">
+  <a href="https://github.com/Tayerquach/REMESH_Seminar/">
+    <img src="https://brainvision.com/wp-content/uploads/2020/05/EEG-1024x1024.png" alt="Logo" width="120" height="125">
   </a>
 
   <h3 align="center">Decoding multiple modalities from EEG</h3>
