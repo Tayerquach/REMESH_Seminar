@@ -18,7 +18,8 @@ We run code in [![Jupyter][jupyterlab.ipynb]][jupyterlab-url] which is a web-bas
 
 # Environment Setup
 1. Install Python (<a target="_blank" href="https://wiki.python.org/moin/BeginnersGuide">Setup instruction</a>)
-2. Install Python packages
+2. Install Jupyter (<a target="_blank" href="https://jupyter.org/install">Setup instruction</a>)
+3. Install Python packages
 ```console 
 pip3 install -r requirements.txt 
 ``` 
